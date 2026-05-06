@@ -35,21 +35,32 @@
 
 
 
-![HTML](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=7FBADC)
+![HTML](https://img.shields.io/badge/HTML5-1e1e2e?style=for-the-badge&logo=html5&logoColor=7FBADC)
 
-![CSS](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=A8DADC)
+&nbsp;
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=C9A84C)
+![CSS](https://img.shields.io/badge/CSS3-1e1e2e?style=for-the-badge&logo=css3&logoColor=A8DADC)
 
-![VS Code](https://img.shields.io/badge/-VSCode-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=7FBADC)
+&nbsp;
 
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=C9C9C9)
+![JavaScript](https://img.shields.io/badge/JavaScript-1e1e2e?style=for-the-badge&logo=javascript&logoColor=C9A84C)
 
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=A8D8A8)
+&nbsp;
+
+![VSCode](https://img.shields.io/badge/VSCode-1e1e2e?style=for-the-badge&logo=visual-studio-code&logoColor=7FBADC)
+
+&nbsp;
+
+![GitHub](https://img.shields.io/badge/GitHub-1e1e2e?style=for-the-badge&logo=github&logoColor=C9C9C9)
+
+&nbsp;
+
+![Python](https://img.shields.io/badge/Python-1e1e2e?style=for-the-badge&logo=python&logoColor=A8D8A8)
 
 
 
 </div>
+
 
 ## 💬 Random Dev Quote
 
