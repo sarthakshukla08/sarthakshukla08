@@ -37,20 +37,17 @@ const me = {
 
 
 
-![HTML](https://img.shields.io/badge/-HTML5-8B0000?style=for-the-badge&logo=html5&logoColor=E8C9A0)
+![HTML](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=7FBADC)
 
+![CSS](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=A8DADC)
 
-
-
-![CSS](https://img.shields.io/badge/-CSS3-1a1a2e?style=for-the-badge&logo=css3&logoColor=A8DADC)
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-1C1C1E?style=for-the-badge&logo=javascript&logoColor=C9A84C)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=C9A84C)
 
 ![VS Code](https://img.shields.io/badge/-VSCode-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=7FBADC)
 
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=C9C9C9)
 
-![Python](https://img.shields.io/badge/-Python-1a1a2e?style=for-the-badge&logo=python&logoColor=A8D8A8)
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=A8D8A8)
 
 
 
