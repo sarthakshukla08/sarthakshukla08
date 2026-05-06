@@ -9,13 +9,11 @@
 ## 🧠 Who Am I?
 
 ```javascript
-const me = {
-  name:     "Sarthak Shukla",
-  role:     "Beginner Developer 🌱",
-  mission:  "Turn ideas into reality through code",
-  status:   "Debugging life... please wait ⏳",
-  funFact:  "I talk to my code. Sometimes it talks back. 👻"
-};
+  Name:     "Sarthak Shukla",
+  Role:     "Beginner Developer 🌱",
+  Mission:  "Turn ideas into reality through code",
+  Status:   "Debugging life... please wait ⏳",
+  FunFact:  "I talk to my code. Sometimes it talks back. 👻"
 ```
 
 ---
