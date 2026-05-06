@@ -1,8 +1,3 @@
-<!-- Header -->
-<div align="center">
-
-# `< Hello, World! />` 👋
-
 ### Still compiling... just like my life. ⚙️
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&width=435&lines=Learning+to+Code...;Building+One+Bug+at+a+Time...;Turning+Coffee+into+Code+%E2%98%95;The+Journey+Has+Just+Begun+%F0%9F%9A%80)
