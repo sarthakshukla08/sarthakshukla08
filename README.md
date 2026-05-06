@@ -44,23 +44,11 @@ const me = {
 
 ![CSS](https://img.shields.io/badge/-CSS3-1a1a2e?style=for-the-badge&logo=css3&logoColor=A8DADC)
 
-
-
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1C1C1E?style=for-the-badge&logo=javascript&logoColor=C9A84C)
-
-
-
 
 ![VS Code](https://img.shields.io/badge/-VSCode-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=7FBADC)
 
-
-
-
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=C9C9C9)
-
-
-
 
 ![Python](https://img.shields.io/badge/-Python-1a1a2e?style=for-the-badge&logo=python&logoColor=A8D8A8)
 
