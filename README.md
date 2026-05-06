@@ -32,23 +32,7 @@
 ## 🛠️ Tools & Technologies
 
 <div align="center">
-
-
-
-![HTML](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=7FBADC)
-
-![CSS](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=A8DADC)
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=C9A84C)
-
-![VS Code](https://img.shields.io/badge/-VSCode-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=7FBADC)
-
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=C9C9C9)
-
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=A8D8A8)
-
-
-
+<img src="https://img.shields.io/badge/HTML5-2d2d2d?style=for-the-badge&logo=html5&logoColor=7FBADC" />&nbsp;<img src="https://img.shields.io/badge/CSS3-2d2d2d?style=for-the-badge&logo=css3&logoColor=A8DADC" />&nbsp;<img src="https://img.shields.io/badge/JavaScript-2d2d2d?style=for-the-badge&logo=javascript&logoColor=C9A84C" />&nbsp;<img src="https://img.shields.io/badge/VSCode-2d2d2d?style=for-the-badge&logo=visual-studio-code&logoColor=7FBADC" />&nbsp;<img src="https://img.shields.io/badge/GitHub-2d2d2d?style=for-the-badge&logo=github&logoColor=C9C9C9" />&nbsp;<img src="https://img.shields.io/badge/Python-2d2d2d?style=for-the-badge&logo=python&logoColor=A8D8A8" />
 </div>
 
 
