@@ -63,8 +63,6 @@ const me = {
 
 <div align="center">
 
-### 👀 Visitor Count
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sarthakshukla08)
 
 ⭐️ *If you like this profile, drop a star!* ⭐️
 
