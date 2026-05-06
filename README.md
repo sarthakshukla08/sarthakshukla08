@@ -55,6 +55,3 @@
 
 <div align="center">
 
-
-⭐️ *If you like this profile, drop a star!* ⭐️
-
