@@ -27,8 +27,6 @@ const me = {
 > Every master was once a disaster."*
 
 - 🌱 Currently learning **HTML, CSS & JavaScript**
-- 🔭 Building my **first projects**
-- 💡 Goal: **Build something the world will use**
 - ⚡ Powered by: **curiosity + coffee + Claude AI**
 
 ---
@@ -43,15 +41,6 @@ const me = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -75,10 +64,7 @@ const me = {
 <div align="center">
 
 ### 👀 Visitor Count
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sarthakshukla08)
 
 ⭐️ *If you like this profile, drop a star!* ⭐️
 
-*"Code is not just syntax — it's a superpower."* 🦸
-
-</div>
