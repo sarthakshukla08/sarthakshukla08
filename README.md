@@ -39,6 +39,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarthakshukla008)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]((https://www.instagram.com/sarthakshukla08))
+[![X](https://img.shields.io/badge/X%2FTwitter-white?logo=x&style=flat&logoColor=gray)]((https://x.com/sarthakshukla08))
 
 </div>
 
