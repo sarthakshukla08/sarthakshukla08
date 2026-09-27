@@ -21,7 +21,7 @@
 ## 🚀 My Journey
 
 - 🌱 Currently learning **C Programming,HTML, CSS & JavaScript**
-- ⚡ Powered by: **curiosity + coffee + Claude AI**
+- ⚡ Powered by: **Curiosity + Ambition + Coffee**
 
 ---
 
@@ -32,18 +32,13 @@
 </div>
 
 
-## 💬 Random Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
 
 ## 🤝 Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarthakshukla008)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarthakshukla08)
+[![Instagram]([https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/-Instagram-181717?style=for-the-badge&logo=instagram&logoColor=purple,%20pink,%20red,%20orange,%20and%20yellow))]([https://github.com/sarthakshukla08](https://www.instagram.com/sarthakshukla08))
 
 </div>
 
