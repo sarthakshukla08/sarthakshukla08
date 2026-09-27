@@ -20,11 +20,7 @@
 
 ## 🚀 My Journey
 
-> *"Every expert was once a beginner.  
-> Every pro was once an amateur.  
-> Every master was once a disaster."*
-
-- 🌱 Currently learning **HTML, CSS & JavaScript**
+- 🌱 Currently learning **C Programming,HTML, CSS & JavaScript**
 - ⚡ Powered by: **curiosity + coffee + Claude AI**
 
 ---
