@@ -1,8 +1,7 @@
 <div align="center">
 
-<img src="assets/ascii-portrait.png" alt="ASCII portrait of Sarthak Shukla" width="480"/>
 
-# Hi, I'm Sarthak Shukla 👋
+# Hi, I'm Sarthak 👋
 
 *Learning to code by building things.*
 
@@ -25,21 +24,14 @@ I'm a developer in progress from Noida Institute of Engineering & Technology, wo
 ![Responsive Web Design](https://img.shields.io/badge/-Responsive%20Web%20Design-38B2AC?style=flat-square)
 ![CAD and Digital Manufacturing](https://img.shields.io/badge/-CAD%20%26%20Digital%20Manufacturing-555555?style=flat-square)
 
-## Education & certifications
-
-- 🎓 **Noida Institute of Engineering & Technology (NIET)**
-- 📜 TechA Web Development using HTML and CSS Foundation Certification
-- 📜 Programming in C
 
 ## Connect with me
 
 <p>
   <a href="https://www.linkedin.com/in/sarthakshukla008/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/sarthakshukla08"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.instagram.com/sarthakshukla08"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://x.com/sarthakshukla08"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   <a href="https://www.paypal.com/paypalme/sarthakshukla08"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/></a>
-  <a href="https://linktr.ee/sarthakshukla08"><img src="https://img.shields.io/badge/Linktree-43E660?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/></a>
 </p>
 
 ---
