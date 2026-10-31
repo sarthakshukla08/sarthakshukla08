@@ -11,21 +11,62 @@
 
 ---
 
-
-from PIL import Image
-
-CHARS = "@%#*+=-:. "   # dense -> sparse; reverse the string if the result looks like a negative
-
-def to_ascii(path, width=80):
-    img = Image.open(path).convert("L")
-    w, h = img.size
-    img = img.resize((width, int(h / w * width * 0.5)))  # 0.5 because characters are ~2x taller than wide
-    px = list(img.getdata())
-    rows = [px[i:i + width] for i in range(0, len(px), width)]
-    return "\n".join("".join(CHARS[p * len(CHARS) // 256] for p in row) for row in rows)
-
-print(to_ascii("me.jpg"))
-
+                                              kjj
+                                        j|!;;:,,,,,,,,,:,;j
+                                   |!:::::,:,,,,,,,::::::,,:;!|
+                               k!:,:;::,,,,:,,:::::,,,,,,::::;:::|jj
+                            j;:,:;;;:,,,::::,:::,,,,,,,,,,,::;:;;,,:::;;!
+                          |:::::;;,,,,:::,,,::,,,,,,,,,,,,,,,::,:;,,:;,,:,:;
+                        !;:;:,,:::,,:::,,,,,,,,,,,,,,,,,,,,,,,,,:,;:,,:,,::,,,!
+                      j;:,;::::;:,;;:;:,:,,,:,::,,,,,,,,,,,,,,,,:,,;,,,::,,:,,,,;
+                     |:;,::,,,,,,,,,,,:;:,:;,::,,,,,,,,,,,,:,,,,,;,,!,,,,::,,,,,,,:j
+                     ,;;;:,,,,,,,,,,,,!:,:;,,:,,,,,,,,,,,,,:::,,,;,,::,,,,,:,,:,,::,j
+                    k;!;,,,,,,,,,,,,,,,,::,,:,,,,,,,,,,,,,,,::,,,::,,,,,,,,,,:::,,:::;
+                    j!;:,,,,,:,,,,,,,,,;,,::,,:;;;!|!||!;::,,,,,:,,,,,,,:,:,,,,,:,,,::
+                    |,,!!:,,,,,,::::::!;::::;!||jjkkkjjj||!;;::,:,,,,,,,,,,:,,,,,,:,,:|
+                    ;,;;,,:,,,:,,,,,,::,::!jjjjkkkkkkkkkkjj|!;;:,,,,,,,,,,,,:,,,,,,,,,|
+                   g!;::,,,::::,,,,,,::;|kkkkkkggggkggkgggkgkkjj|!;;:,,,,,,,,,::,,,,!g
+                   g;,,,,,,:;:,,,,,,:!|kgkgggggggggggggggggggggggkkkj||!::,,,,,,:,,,:j
+                   j,,,,:;:::::::,!jkkgggggggggggggggggggggggggggkggkkgkj|;,,,,,,,,,,;j
+                   |,,,,::::,,,,;jgkgggggggggggggggggggggggggggggkkkkkkkkk|;:,,,:,,:,,j
+                    j;::;::::,,!ggkkgggggggggggggggggggggggggggggggkkkkkkkk!,,,,,,:,,,k
+                     ;!:,,,,,,!gkkkggkgggggggggggg%ggggggggggggggggggkkkkkkk!,,,,,::,;
+                     j:::::,,|%kkkkggggggg%%%%%%%%%%gggggggggggg%ggggggkkkkkgj,,,:::,
+                      ;:;;:,;Mgkg%g%%%%%%%%M%MMM%%%%%%g%%%%%%%%g%ggkkggggggkk%g,,::,;
+                      |,:;,,Mgg%gj|jj|!jjjjjj|jkg%%%gg%%g%kj|!|!;;,,::;;;!k%gk%g,,:,
+                       ,;;,kM%g|;!!!!:::::;;;|jjk%M%%%g%gggj!|!;;;!!!;;;:::!k%gM!,:,
+                       :::,M%g!jkkgg%MM%Mgkkg%%%%%%%%ggggkkkkkjkkkggggg%gkkj!kg%j,,!
+                       !:,|@%gg%%%%%kj!!::,!!|kgkggggggkj!;;;;!!;:::;!||jgggkkg%g,,j
+                       !,,M%gg%%g|;,:j!;:,:g|;!j|k%g%%gk;;!:::g|,:,,j!,:;!kgkkggM,,
+                    jj%k,|Mgg%gkkjkkkjgkjjj||jj|j%%%%ggkj!!;!;!|||!||!!||||jkkgk@;,%
+                   j|%gk,Mg%ggggggggg%gggkkkkkkkgg%%%ggggkjjjj||jjkkkggggggkkkgkMj,g|!
+                  g!kkg|!Mggggg%gggggggggggggggg%g%%gggggkkkggkkkkkgggggggggggggg%,jj!;k
+                  k;!g@jkMgg%%%%%%%%%%%%%%%%%gggkg%%%gggggkkgggggggggg%%%ggggggggM,kg!!:k
+                  g;!Mg|g%g%%g%%%%%%%%%%%%%%%kkgg%%%%ggggkkkkggggg%g%g%gggggggggg%:jkk!:|
+                   ;jM!:%gg%gg%%%%%%%%%%%%%gkgg%%%%%%%ggggggjjgg%%%g%%gggggkgggkg%;!|kk:|
+                   j;k%,g%gg%%%%%%%%%%%%%%gkMM%M%MM%%ggggg%%j|gg%%ggggg%gggggggggg!!;gj;j
+                   g|;k|j%ggg%%gg%gg%%%%%ggg%kjjg%MMMkjj|k%jjkkggg%%ggggggggggkggk;|jj:|k
+                    kkj||%ggggg%%%%%%%%%%ggggjkk%g%%kjjj||!kkkggggggggggggggkkkgg|;%k!|j
+                    gggj!Mgggggg%%%%%%%%%g%gk|!jkgjg%j!::;;|jjkgg%gggggggggkkgkk%!kjjgg
+                        ;%ggk%gggg%%%%Mg%kj|;;!;;!;jj||!::,;;;;!jkggggggggkkkkkgg;jkkk
+                        jk%gkggg%%%%%%|!!:;!kjgkgg%kgkkgkkkjj|!::;|kkkkkkgkkkjk%j!%g
+                         j%gkggggg%%M!,;jjk%gkkkgkjkkjjj|!!|!!!j|;,;kkkkkkkkkkg%|
+                         |gggggggg%Mk;|gkj|;!||||j|||jjj|||!:,,;kg!,jgkkgkkkkk%k!
+                          j%ggggggg%%kjggg%gggg%%ggkggggkkkkjjjj|jk!kgkgkkkgkgg!k
+                          |j%ggg%ggg%gkg%%ggggkkkkjjjkjjkjkjjkjjkkjkggkkkkggkg|!
+                           ;|g%gggggggkkggggggkgkkjj||jjkkjkjjjkjjjjkkgkkkkkk|:
+                            ;:jgggggkj|kggggggggkkkjjjkkkkkkjjj||!|jkkkkkkj!::
+                              :;|jkjj||j||g%kjgjkgkjkkjkk|jj||||;;!!|||j|!;,:
+                               !::;!;;;;;|k||k||gk|kkkjjj;!;;;;;;:::;;;!;,:
+                               %g|,,:,;:;!!:!|!|jj!k|jkj!!;::;:::,,:::,,,!
+                              !kg%%j;:,,,::::;;;;;;|;!|;:;::,:,,,,:::::|jg
+                             j,k%kgg%gj!:,,,,,::::::::,::,,,:,,,,,,:!|kkkj
+                            g::kgggggggggkj|;::,,,,,,,,,,,,,,,,;;|jkkkkkkjk
+                            !!!jgkkgggggkggg%gggkkkj|!;!|jjj|jjkkkkkkkkkkj!g%@
+                            !k:!gkkkkggggggggggggggggggggkkkkkjkkkkkkjjjjk;kM@@M
+                           g|k,!kkkkkkgggggggggggggggkkkkkjkkkkkkkkjjjjjkg:k@MM@M
+                            k,,;|jkkkkggggggggg%%gggggkkkkkkkkkkkkjjkkkjkg;j@MM@@M
+                            g,:;!|jkkkkkgggggggggggggggkgkkkjjjkkkkkkkkkjk;j@MMMM@M
 
 ## About me
 
