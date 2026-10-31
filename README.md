@@ -11,6 +11,22 @@
 
 ---
 
+
+from PIL import Image
+
+CHARS = "@%#*+=-:. "   # dense -> sparse; reverse the string if the result looks like a negative
+
+def to_ascii(path, width=80):
+    img = Image.open(path).convert("L")
+    w, h = img.size
+    img = img.resize((width, int(h / w * width * 0.5)))  # 0.5 because characters are ~2x taller than wide
+    px = list(img.getdata())
+    rows = [px[i:i + width] for i in range(0, len(px), width)]
+    return "\n".join("".join(CHARS[p * len(CHARS) // 256] for p in row) for row in rows)
+
+print(to_ascii("me.jpg"))
+
+
 ## About me
 
 I'm a developer in progress from Noida Institute of Engineering & Technology, working in C and the web stack (HTML, CSS, JavaScript). I learn by building real projects, taking existing code apart, and adapting it until it does what I want. I'm building my developer presence in public: shipping small things, learning from what breaks, and improving each iteration.
