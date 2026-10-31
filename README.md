@@ -1,49 +1,53 @@
-### Still compiling... just like my life. ⚙️
+<div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&width=435&lines=Learning+to+Code...;Building+One+Bug+at+a+Time...;Turning+Coffee+into+Code+%E2%98%95;The+Journey+Has+Just+Begun+%F0%9F%9A%80)
+<img src="assets/ascii-portrait.png" alt="ASCII portrait of Sarthak Shukla" width="480"/>
+
+# Hi, I'm Sarthak Shukla 👋
+
+*Learning to code by building things.*
+
+[![Linktree](https://img.shields.io/badge/Linktree-43E660?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/sarthakshukla08)
 
 </div>
 
 ---
 
-## 🧠 Who Am I?
+## About me
 
-```javascript
-  Name:     "Sarthak Shukla",
-  Role:     "Beginner Developer 🌱",
-  Mission:  "Turn ideas into reality through code",
-  Status:   "Debugging life... please wait ⏳",
-  FunFact:  "I talk to my code. Sometimes it talks back. 👻"
-```
+I'm a developer in progress from Noida Institute of Engineering & Technology, working in C and the web stack (HTML, CSS, JavaScript). I learn by building real projects, taking existing code apart, and adapting it until it does what I want. I'm building my developer presence in public: shipping small things, learning from what breaks, and improving each iteration.
+
+## Skills
+
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Responsive Web Design](https://img.shields.io/badge/-Responsive%20Web%20Design-38B2AC?style=flat-square)
+![CAD and Digital Manufacturing](https://img.shields.io/badge/-CAD%20%26%20Digital%20Manufacturing-555555?style=flat-square)
+
+## Education & certifications
+
+- 🎓 **Noida Institute of Engineering & Technology (NIET)**
+- 📜 TechA Web Development using HTML and CSS Foundation Certification
+- 📜 Programming in C
+
+## Connect with me
+
+<p>
+  <a href="https://www.linkedin.com/in/sarthakshukla008/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/sarthakshukla08"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.instagram.com/sarthakshukla08"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://x.com/sarthakshukla08"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://www.paypal.com/paypalme/sarthakshukla08"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/></a>
+  <a href="https://linktr.ee/sarthakshukla08"><img src="https://img.shields.io/badge/Linktree-43E660?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/></a>
+</p>
 
 ---
-
-## 🚀 My Journey
-
-- 🌱 Currently learning **C Programming,HTML, CSS & JavaScript**
-- ⚡ Powered by: **Curiosity + Ambition + Coffee**
-
----
-
-## 🛠️ Tools & Technologies
 
 <div align="center">
-<img src="https://img.shields.io/badge/HTML5-2d2d2d?style=for-the-badge&logo=html5&logoColor=7FBADC" />&nbsp;<img src="https://img.shields.io/badge/CSS3-2d2d2d?style=for-the-badge&logo=css3&logoColor=A8DADC" />&nbsp;<img src="https://img.shields.io/badge/JavaScript-2d2d2d?style=for-the-badge&logo=javascript&logoColor=C9A84C" />&nbsp;<img src="https://img.shields.io/badge/VSCode-2d2d2d?style=for-the-badge&logo=visual-studio-code&logoColor=7FBADC" />&nbsp;<img src="https://img.shields.io/badge/GitHub-2d2d2d?style=for-the-badge&logo=github&logoColor=C9C9C9" />&nbsp;<img src="https://img.shields.io/badge/Python-2d2d2d?style=for-the-badge&logo=python&logoColor=A8D8A8" />
+
+> *"The Fool who knows how to move a mountain, will always hire a genius who only knows its weight."*
+>
+> — Sarthak Shukla
+
 </div>
-
-
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarthakshukla008)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]((https://www.instagram.com/sarthakshukla08))
-[![X](https://img.shields.io/badge/X%2FTwitter-white?logo=x&style=flat&logoColor=gray)]((https://x.com/sarthakshukla08))
-
-</div>
-
----
-
-<div align="center">
-
